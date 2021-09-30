@@ -22,6 +22,6 @@ Aproveitem para explorar algumas tag’s legais do HTML que permitem, por exempl
 
 ---
 
-###Resultado
+### Resultado
 
 Depois de muito tempo mergeando e resolvendo conflitos entre cada uma das merges conseguimos montar uma página HTML com links para cada uma das pessoas
