@@ -14,7 +14,7 @@ Alex Silva
 
 ---
 
-## Obejetivo
+## Objetivo
 
 Imaginem o seguinte desafio: vocês precisam montar uma lista conjunta de algumas coisas que vocês gostam (Alguns exemplos: Lista de músicas, filmes, comidas, games, etc.), essa lista precisa ser construída em grupo (sugestão usar os grupos da dinâmica dos post it’s) e o resultado final deve ser uma página HTML com as contribuições de todas as pessoas do grupo, a lista deve conter, pelo menos uma contribuição de cada pessoa do grupo e deve estar em um repositório no GitHub (podem escolher o GitHub de uma das pessoas do grupo para disponibilizar o repositório). 
 
